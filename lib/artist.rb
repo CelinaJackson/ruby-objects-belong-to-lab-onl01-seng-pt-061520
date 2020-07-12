@@ -1,4 +1,4 @@
 class Artist
-  attr_accessor :naem
+  attr_accessor :name
 
 end
